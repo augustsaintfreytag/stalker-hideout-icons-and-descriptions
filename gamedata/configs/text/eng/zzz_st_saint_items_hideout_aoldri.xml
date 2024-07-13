@@ -17,7 +17,7 @@
 		<text>Portable Workshop</text>
 	</string>
 	<string id="st_placeable_workshop_descr">
-		<text>A custom-built portable deployable workshop consisting of a working table, an assortment of workshop tools, and compartments that allow for organized storage of materials, parts, and smaller containers. The portable workshop is sold as a kit, usually to permanent zone inhabitants, and allows for advanced crafting and repairs virtually anywhere in the field. Many now permanent camps have started with a single workshop set up in a makeshift shelter. It is very heavy and does not replace smaller toolkits usually preferred for ad-hoc work on the go.\n \n
+		<text>A custom-built, portable, deployable workshop consisting of a working table, an assortment of workshop tools, and compartments that allow for organized storage of materials, parts, and smaller containers. The portable workshop is sold as a kit, usually to permanent zone inhabitants, and allows for advanced crafting and repairs virtually anywhere in the field. Many now permanent camps have started with a single workshop set up in a makeshift shelter. It is very heavy and does not replace smaller toolkits usually preferred for ad-hoc work on the go.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] placeable item\n
 		%c[d_cyan] • %c[ui_gray_2] technological item\n
