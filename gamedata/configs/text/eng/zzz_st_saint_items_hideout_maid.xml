@@ -128,10 +128,10 @@
 	</string>
 
 	<string id="st_prop_poster_vertical_item">
-		<text>Poster</text>
+		<text>Blank Poster</text>
 	</string>
 	<string id="st_prop_poster_vertical_item_descr">
-		<text>A simple, vertical poster printed on glossy paper. The edges are slightly curled, and there are minor tears from previous handling. Similar types of posters are traded with different motifs and formats. Designed for wall mounting to personalize spaces within the Zone.\n \n
+		<text>A blank piece of glossy poster paper. The edges are slightly curled, and there are minor tears from previous handling. Paper like this are commonly used in printing processes to create black and white or color posters with different designs.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] placeable item\n	
 		%c[d_green] • %c[ui_gray_2] decorative item\n

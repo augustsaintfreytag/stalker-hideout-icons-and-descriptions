@@ -391,70 +391,70 @@
 	<!-- Posters -->
 
     <string id="st_placeable_poster1">
-		<text>Soviet Poster (Man)</text>
+		<text>Poster (Soviet Propaganda, Viktor Govorkov)</text>
 	</string>
 	<string id="st_placeable_poster1_descr">
-		<text>A color poster, printed on thin glossy paper. It shows a man in red clothes extending his hand towards the viewer. It appears to be from the time of the Soviet Union. The edges are slightly torn and the colors have slightly faded over time. Small pinholes mark the corners, evidence of its previous display. This print appears to have either been removed from an existing place or stored for a long time since its production. \n \n
+		<text>A Soviet propaganda color print poster with a motif created by Viktor Govorkov in 1956. The artwork prominently features the slogan, "Peace and Friendship. Our experience — for our friends". The design shows vibrant imagery of Soviet camaraderie. The poster uses bold colors and dynamic compositions to convey a proposed message of unity and mutual support. Prints were produced during the height of the Cold War. A visual representation of the USSR's stated commitment to international solidarity. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] placeable item\n
 		%c[d_cyan] • %c[ui_gray_2] decoration item\n</text>
 	</string>
 	
     <string id="st_placeable_poster2">
-		<text>Orange Poster</text>
+		<text>Poster (Humanity: Degraded)</text>
 	</string>
 	<string id="st_placeable_poster2_descr">
-		<text>A color poster, printed on thin glossy paper. It shows black text of a harsh orange backdrop. The edges are slightly torn and the colors have slightly faded over time. Small pinholes mark the corners, evidence of its previous display. This print appears to have either been removed from an existing place or stored for a long time since its production. \n \n
+		<text>A color print poster in an orange and black color scheme with the bold heading "HUMANITY: DEGRADED" emblazoned across the top. The imagery beneath depicts two figures clad in heavy protective suits, looking over a desolate landscape. Central to the composition is a decayed structure with a prominent sign reading "CAUTION: RADIATION AREA". The origin of the print are unknown, though it may be a band or album artwork.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] placeable item\n
 		%c[d_cyan] • %c[ui_gray_2] decoration item\n</text>
 	</string>
 	
     <string id="st_placeable_poster3">
-		<text>White and Red Poster</text>
+		<text>Poster (Machine Gun)</text>
 	</string>
 	<string id="st_placeable_poster3_descr">
-		<text>A color poster, printed on thin glossy paper. It shows a red motif on a white backdrop with text. The edges are slightly torn and the colors have slightly faded over time. Small pinholes mark the corners, evidence of its previous display. This print appears to have either been removed from an existing place or stored for a long time since its production. \n \n
+		<text>A color print poster showing a hand gripping a WW2 era submachine gun against a vivid red background. The bold text at the bottom reads "MACHINE GUN". The upper portion of the poster has illegible text in white. The design and color scheme are bold in red and white and give off a sense of urgency and power. May be an older movie poster or album artwork in poster form. The exact origins of the motif are unknown. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] placeable item\n
 		%c[d_cyan] • %c[ui_gray_2] decoration item\n</text>
 	</string>
 	
     <string id="st_placeable_poster4">
-		<text>Soviet Poster (Abstract)</text>
+		<text>Poster (Soviet Propaganda, Striking at the False Shock Workers)</text>
 	</string>
 	<string id="st_placeable_poster4_descr">
-		<text>A color poster, printed on thin glossy paper. The edges are slightly torn and the colors have slightly faded over time. Small pinholes mark the corners, evidence of its previous display. This print appears to have either been removed from an existing place or stored for a long time since its production. \n \n
+		<text>A Soviet color print propaganda poster with bold red and black hues. It shows three figures wielding hammers. The text in Cyrillic translates to "Striking at the False Shock Workers", a statement for a collective effort against unproductive elements within the workforce. The imagery is dominated by stylized, dynamic silhouettes, and captures the essence of industrial power and unity. A large hammer and sickle arc symbolizes the strength of Soviet labor. Detailed gears and clock faces at the bottom underscore the importance of time and efficiency in industrial progress. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] placeable item\n
 		%c[d_cyan] • %c[ui_gray_2] decoration item\n</text>
 	</string>
 	
     <string id="st_placeable_poster5">
-		<text>Infected Poster</text>
+		<text>Poster (Infected)</text>
 	</string>
 	<string id="st_placeable_poster5_descr">
-		<text>A color poster, printed on thin glossy paper. The edges are slightly torn and the colors have slightly faded over time. Small pinholes mark the corners, evidence of its previous display. This print appears to have either been removed from an existing place or stored for a long time since its production. \n \n
+		<text>A black and white print poster with "INFECTED" in bold letters at the top. The central image features a haunting figure wearing a gas mask. A smaller text below says "STAY FAR AWAY". The lower section includes some iconography of a plague doctor, distorted figures, and other symbols. Small print below reads, "The disease will spread from man to man with undeniable efficiency until the last corpse drops. No home remains to feel its warmth." The origin of the artwork is unknown. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] placeable item\n
 		%c[d_cyan] • %c[ui_gray_2] decoration item\n</text>
 	</string>
 	
     <string id="st_placeable_poster6">
-		<text>Blue Head Poster</text>
+		<text>Poster (Brain)</text>
 	</string>
 	<string id="st_placeable_poster6_descr">
-		<text>A color poster, printed on thin glossy paper. The edges are slightly torn and the colors have slightly faded over time. Small pinholes mark the corners, evidence of its previous display. This print appears to have either been removed from an existing place or stored for a long time since its production. \n \n
+		<text>A dark, color print poster with the title "INFESTED THOUGHTS" in blood-red lettering at the top. The central image depicts a brain and face, glowing ominously in a faded blue. The motif is surrounded by jagged patterns. The caption at the bottom reads "CONTROL MY BRAIN," positioned below a row of red ants. The design evokes a sense of mental invasion, of paranoia and psychological horror. It might connect with the pervasive fear of losing control over one's mind in the Zone. The origin of its design is unknown.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] placeable item\n
 		%c[d_cyan] • %c[ui_gray_2] decoration item\n</text>
 	</string>
 	
     <string id="st_placeable_poster7">
-		<text>Black and Indigo Poster</text>
+		<text>Poster (Heaven)</text>
 	</string>
 	<string id="st_placeable_poster7_descr">
-		<text>A color poster, printed on thin glossy paper. The edges are slightly torn and the colors have slightly faded over time. Small pinholes mark the corners, evidence of its previous display. This print appears to have either been removed from an existing place or stored for a long time since its production. \n \n
+		<text>A dark, color print poster titled "YOU CAN'T RUN FROM HEAVEN" with a medieval knight kneeling, gripping a sword. The background features a ghostly figure on the left and cathedral windows on the right. A block on the left side reads "DUEL MY EVIL AND FACE THE GATES OF MY DESPAIR." The artwork includes the number "45" in multiple spots. The overall look suggests a grim struggle and inevitable fate, with a gothic atmosphere. The exact origin of the design is unknown. \n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] placeable item\n
 		%c[d_cyan] • %c[ui_gray_2] decoration item\n</text>
