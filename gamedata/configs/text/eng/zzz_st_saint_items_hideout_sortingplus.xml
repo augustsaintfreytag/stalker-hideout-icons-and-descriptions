@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="ui_mcm_SortingPlus_usefunctors">
+		<text>Use Functors</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_160factionpatches">
+		<text>Faction Patches</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_170hideout">
+		<text>Hideout Props</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_useltx">
+		<text>Use LTX File</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_selljunk">
+		<text>Auto-Move Junk to Sell Panel</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_putallfavs">
+		<text>Exclude Favorites from "Move all"</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_resort">
+		<text>Re-Sort on Item Marking</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconfavs">
+		<text>Mark Favorites</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconjunk">
+		<text>Mark Junk</text>
+	</string>
+
+</string_table>
