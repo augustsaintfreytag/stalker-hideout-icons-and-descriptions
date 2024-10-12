@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="ui_mcm_SortingPlus_usefunctors">
+		<text>Использовать функции</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_160factionpatches">
+		<text>Нашивки фракций</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_170hideout">
+		<text>Предметы укрытия</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_useltx">
+		<text>Использовать файл LTX</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_selljunk">
+		<text>Авто-передвижение хлама на панель продажи</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_putallfavs">
+		<text>Исключить избранные из "Переместить всё"</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_resort">
+		<text>Пересортировать при маркировке предметов</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconfavs">
+		<text>Пометить как избранное</text>
+	</string>
+	<string id="ui_mcm_SortingPlus_iconjunk">
+		<text>Пометить как хлам</text>
+	</string>
+
+</string_table>
