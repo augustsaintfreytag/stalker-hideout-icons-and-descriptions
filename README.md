@@ -1,6 +1,6 @@
 *(Artwork pending)*
 
-# STALKER Hideout Texts & Icons
+# STALKER Hideout Icons & Descriptions
 
 An aesthetic overhaul for hideout mods for STALKER Anomaly (Open X-Ray/Monolith engine), introducing a consistent design for icons and hand-edited descriptions for all items. Patches the base hideout mod and extensions. Covers the original *Hideout Furniture* mod by Aoldri, the *Hideout Furniture Expansion* mod by Maid, and the *Even More Hideout Furniture* mod by Facelessz.
 
