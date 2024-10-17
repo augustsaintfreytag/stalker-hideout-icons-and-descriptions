@@ -6,9 +6,20 @@ An aesthetic overhaul for hideout mods for STALKER Anomaly (Open X-Ray/Monolith 
 
 ## Features
 
-The mod establishes a consistent design language where all props intended and exclusively usable with hideouts have a *packaged in cardboard* look. The mod includes new atlas textures where all hideout props are grouped together by the mod that adds them. It also includes a DLTX patch that updates texture reference, icon position, and dimensions for all items. Most new textures use the same origin position as the original items, some have changed dimensions.
+This mod includes the following features:
 
-Each box has a printed version of the item it contains on its side. The goal was to make hideout items instantly distinguishable from regular gameplay items, especially as many have equivalents (e.g. backpacks, spare parts, magazines). All icons were painstakingly hand-made by me in Photoshop.
+- Introduces hand-made icons for **149 hideout items**
+- All icons have a consistent "packaged in cardboard" look
+- Makes hideout items instantly distinguishable from gameplay items
+- Adds full support for *Sorting Plus* to all hideout items
+- Makes hideout items sort last (and group together) in trader and player inventories
+- Adds custom item descriptions for all hideout items
+- Adds special item descriptions for poster items that detail how the poster looks
+- Minor cost balancing to let all items have *some* value and let bulkier items be expensive
+- Gives you a little sense of unpacking when furnishing your new Zone apartment
+- All changes are made by new texture atlas files and DLTX patches (no file replacements)
+
+The goal for this mod was to make hideout items instantly distinguishable from regular gameplay items, especially as many have equivalents (e.g. backpacks, spare parts, magazines). Now they have a consistent design language and they get sorted together so they are in their own visual group, away from other items. All icons were painstakingly hand-made by me in Photoshop, using the original mod's item textures that are now the printed pictures on the box.
 
 ## Previews
 
